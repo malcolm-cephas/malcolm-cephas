@@ -3,7 +3,9 @@ I'm working on IOT, java, python, spring boot
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/malcolm-cephas) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:malcolm.cephas@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/malcolm-cephas)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:malcolm.cephas@gmail.com)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/32284176/malcolm-cephas)
 
 ### 🛠️ Tech Stack  
 
