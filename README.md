@@ -55,8 +55,3 @@ I enjoy building **real-world backend systems**, secure architectures, and scala
 - Spring Boot internals and best practices  
 - Distributed systems fundamentals  
 - Converting internships into production-ready skills  
-
---- 
-
-# 📊 GitHub Stats 
-![](https://github-readme-stats.vercel.app/api?username=malcolm-cephas&theme=darcula&hide_border=false&include_all_commits=true&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=malcolm-cephas&theme=darcula&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=malcolm-cephas&theme=darcula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
