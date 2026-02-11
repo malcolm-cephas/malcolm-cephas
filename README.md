@@ -33,7 +33,7 @@ I enjoy building **real-world backend systems**, secure architectures, and scala
 ## 🚀 Featured Projects
 
 ### 🛒 E-Commerce Backend Demo with MCP Server Integration
-🔗 https://github.com/malcolm-cephas/Ecom_demo
+🔗 [Ecom_demo](https://github.com/malcolm-cephas/Ecom_demo)
 
 - Built a **Java Spring Boot backend** for an e-commerce platform  
 - Implemented REST APIs for **users, products, and orders**
