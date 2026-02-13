@@ -44,6 +44,7 @@ I enjoy building **real-world backend systems**, secure architectures, and scala
 ---
 
 ### 🔐 Secure Access Control Framework for Medical IoT Systems
+🔗 [Medical_IoT](https://github.com/malcolm-cephas/Medical-IoT)
 - Designed a cryptography-based access control system using **Elliptic Curve Cryptography (ECC)**
 - Focused on secure backend logic for decentralized medical IoT environments
 - Explored trade-offs between security, performance, and access granularity
