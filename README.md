@@ -65,7 +65,7 @@ I enjoy building **real-world backend systems**, secure architectures, and scala
 <div align="center">
 
   <img
-    src="https://streak-stats.demolab.com/?user=malcolm-cephas&theme=dracula&hide_border=true&v=4"
+    src="https://streak-stats.demolab.com/?user=malcolm-cephas&theme=dracula&hide_border=true&v=3"
     height="170"
   />
 
