@@ -72,6 +72,6 @@ I enjoy building **real-world backend systems**, secure architectures, and scala
 
 <img src="https://github-readme-stats.vercel.app/api?username=malcolm-cephas&show_icons=true&theme=dracula&count_private=true" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=malcolm-cephas&theme=dracula" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=malcolm-cephas&theme=tokyonight" height="170"/>
 
 </div>
