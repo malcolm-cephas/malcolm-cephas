@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Malcolm Cephas
 
-I’m a **final-year Electronics and Communication Engineering student** and a **backend-focused software developer**.  
+I’m a **Electronics and Communication Engineer** and a **backend-focused software developer**.  
 Currently working as a **Java Spring Boot intern**, building backend services and integrating **MCP servers** for service communication.
 
 I enjoy building **real-world backend systems**, secure architectures, and scalable APIs — especially where software meets systems and infrastructure.
